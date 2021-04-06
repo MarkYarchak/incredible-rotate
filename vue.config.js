@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '<incredible-rotate>',
+  // publicPath: '<incredible-rotate>', optional, for GH-pages
 };
